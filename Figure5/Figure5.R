@@ -1,8 +1,8 @@
 library(scales)
 
-setwd("/Volumes/Disco2024/Papers/EnPreparacion/DProtein/2024/EAAInProteinsAndMetabolism/DataFiguresPaper/Table2")
+setwd("<specify_here_the_path_where_you_put_dataFigure5.csv>")
 
-df <- read.csv('table2.csv')
+df <- read.csv('dataFigure5.csv')
 
 plot.aminodist <- function(x,labels,color,df,size,alpha) 
 {
