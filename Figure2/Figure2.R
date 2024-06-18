@@ -1,4 +1,4 @@
-setwd("/Volumes/Disco2024/Papers/EnPreparacion/DProtein/2024/EAAInProteinsAndMetabolism/DataFiguresPaper/Figure2")
+setwd("<specify_here_the_path_where_you_put_dataFigure2.csv_files>")
 
 par(mfrow=c(2,2))
 
