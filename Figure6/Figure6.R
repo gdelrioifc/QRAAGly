@@ -1,6 +1,6 @@
 library(scales)
 
-setwd("/Volumes/Disco2024/Papers/EnPreparacion/DProtein/2024/EAAInProteinsAndMetabolism/DataFiguresPaper/Figure6")
+setwd("<specify_here_the_path_where_you_put_dataFigure6.csv>")
 
 df <- read.csv('dataFigure6.csv')
 
