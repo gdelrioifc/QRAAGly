@@ -1,5 +1,5 @@
 library(scales)
-setwd("<include_your_working_dir_here>")
+setwd("<specify_here_the_path_where_you_put_dataFigure1.csv_file>")
 
 plot.aminodist <- function(x,labels,color,df,size,alpha) 
 {
