@@ -1,5 +1,5 @@
 library(scales)
-setwd("/Volumes/Disco2024/Papers/EnPreparacion/DProtein/2024/EAAInProteinsAndMetabolism/DataFiguresPaper/Figure1")
+setwd("<include_your_working_dir_here>")
 
 plot.aminodist <- function(x,labels,color,df,size,alpha) 
 {
